@@ -1,0 +1,15 @@
+.add_hotel{
+	width: 50%;
+	margin: auto;
+	
+}
+
+.form-group{
+    display: flex;
+    margin: 20px
+}
+
+.form-label{
+	width: 20%;
+	
+}

@@ -1,0 +1,27 @@
+.display-hotels{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.display_home_info{
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+	background-color: rgba(172, 172, 169, 0.562);
+	margin: 10px;
+    padding-bottom: 5px;
+}
+
+.hotel-name{
+	text-align: center;
+}
+
+.display_home img{
+	width: 350px;
+	height: 350px;
+	margin-left: 25px
+}
+
+.hotel-description{
+	margin: 0 5px;
+}
